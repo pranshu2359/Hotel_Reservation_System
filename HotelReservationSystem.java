@@ -5,7 +5,7 @@ public class HotelReservationSystem {
 
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String username = "root";
-    private static final String password = "235900";
+    private static final String password = "000000";
 
     public static void main(String[] args) {
         try {
@@ -189,4 +189,5 @@ public class HotelReservationSystem {
         }
         System.out.println("Thank you for using Hotel Reservation System!");
     }
+
 }
